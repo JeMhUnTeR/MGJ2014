@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Spawn_Point_Detail
-  m_Shader: {fileID: 30, guid: 0000000000000000f000000000000000, type: 0}
+  m_Name: Side_Mat
+  m_Shader: {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: []
   m_CustomRenderQueue: -1
   m_SavedProperties:
@@ -25,4 +25,4 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .666666687, g: .666666687, b: .666666687, a: .75}
+        second: {r: .447058827, g: .447058827, b: .447058827, a: 1}
