@@ -12,6 +12,8 @@ ModelImporter:
     100012: //RootNode
     100014: Stage_Quarter1
     100016: Stage_Quarter2
+    100018: Mesh4
+    100020: Stage_Bounds1
     400000: Group1
     400002: Mesh1
     400004: Mesh2
@@ -21,18 +23,24 @@ ModelImporter:
     400012: //RootNode
     400014: Stage_Quarter1
     400016: Stage_Quarter2
+    400018: Mesh4
+    400020: Stage_Bounds1
     2300000: Mesh1
     2300002: Mesh2
     2300004: Mesh3
+    2300006: Mesh4
     3300000: Mesh1
     3300002: Mesh2
     3300004: Mesh3
+    3300006: Mesh4
     4300000: Mesh1
     4300002: Mesh2
     4300004: Mesh3
+    4300006: Mesh4
     6400000: Mesh1
     6400002: Mesh2
     6400004: Mesh3
+    6400006: Mesh4
     9500000: //RootNode
   materials:
     importMaterials: 1
