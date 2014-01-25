@@ -3749,6 +3749,14 @@ Prefab:
       propertyPath: m_UseLightProbes
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100140, guid: 79efd4c2b57a6d24f9555a5851c00ad1, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 79efd4c2b57a6d24f9555a5851c00ad1, type: 2}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: aef9e0d7fbf9f924091a41b93ff4fa44, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 79efd4c2b57a6d24f9555a5851c00ad1, type: 2}
   m_RootGameObject: {fileID: 1140312561}
