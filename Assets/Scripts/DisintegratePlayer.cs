@@ -18,5 +18,11 @@ public class DisintegratePlayer : MonoBehaviour {
 	void Disintegrate () {
 		if (particleSystem) particleSystem.Play();
 		disintegrating = true;
+		StartCoroutine(disableRenderer());
+	}
+
+	IEnumerator disableRenderer () {
+		yield return new WaitForSeconds (2.5f);
+		renderer.enabled = false;
 	}
 }
